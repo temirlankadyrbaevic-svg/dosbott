@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 TOKEN = "8670502824:AAG7ZblOnd6o_-nIo6NKdYmfvtvv4vMyfrQ"
 GEMINI_KEY = "AIzaSyChqar4CmaFHUBte_Se2cHH62xfsJw32s4"
 # Supabase -> Settings -> Database -> Connection String (URI)
-DATABASE_URL = "postgresql://postgres:[password]@db.your-id.supabase.co:5432/postgres"
+DATABASE_URL = "postgresql://postgres:[T_H/$?J-%&y4P7y]@db.your-id.supabase.co:5432/postgres"
 
 # ЖИ баптау (Gemini 1.5 Flash - ең жылдам нұсқасы)
 genai.configure(api_key=GEMINI_KEY)
